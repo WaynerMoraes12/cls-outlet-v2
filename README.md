@@ -1,16 +1,32 @@
-# React + Vite
+# 🔴 CLS OUTLET | Landing Page V2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Arquitetura de conversão implacável focada em performance, design brutalista e usabilidade mobile-first. Desenvolvida sob o padrão **Elite Standard**.
 
-Currently, two official plugins are available:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Visão Estratégica
 
-## React Compiler
+A nova Landing Page da **CLS Outlet** foi projetada para substituir estruturas antigas e de carregamento lento por uma **Single-Page Application (SPA)** ultrarrápida. O objetivo central é eliminar o atrito entre o cliente e a venda, guiando o tráfego diretamente para os canais de conversão (Mercado Livre, Lojas Físicas e WhatsApp).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚡ Tecnologias Forjadas
 
-## Expanding the ESLint configuration
+A fiação do projeto foi construída utilizando o que há de mais moderno no ecossistema front-end:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React (via Vite):** Motor de renderização instantânea e componentização fluida.
+* **Tailwind CSS (v4 + PostCSS):** Blindagem visual e estilização em linha. Dispensa arquivos CSS externos, garantindo um código limpo e de fácil manutenção.
+* **Design System:** Estética Dark/Brutalista com acentos em Vermelho Impacto (`#e8001d`), criando hierarquia visual agressiva.
+
+## 🛡️ Funcionalidades Táticas
+
+* **Hero Section Imersivo:** Fundo com sobreposição de gradiente e *Call-to-Actions* (CTAs) de alto contraste.
+* **Conversão Mobile-First:** Botão flutuante do WhatsApp que persegue a rolagem da tela em smartphones, garantindo contato a 1-clique.
+* **Social Proof e Localização:** Estrutura clara das unidades de **Araras** e **Santa Bárbara d'Oeste** com links diretos para rotas e Instagram oficial.
+* **Integração Audiovisual:** Contêiner 16:9 responsivo dedicado a apresentações em vídeo (ex: linha de Motos Elétricas).
+
+## 🚀 Como Executar o Projeto Localmente
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/WaynerMoraes12/cls-outlet-v2.git](https://github.com/WaynerMoraes12/cls-outlet-v2.git)
