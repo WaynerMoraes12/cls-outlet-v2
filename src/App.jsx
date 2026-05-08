@@ -17,7 +17,7 @@ const unidadesData = [
   {
     city: 'Araras – SP',
     address: 'Avenida Otto Barreto, 1067 — Distrito Industrial II, Araras – SP',
-    instagram: 'https://www.instagram.com/clsoutletararas/',
+    instagram: 'https://www.instagram.com/outletcls_araras/',
     handle: '@clsoutletararas',
   },
   {
@@ -51,7 +51,7 @@ function App() {
         <div className="hidden lg:flex items-center gap-8 text-xs font-bold tracking-[0.2em] uppercase text-neutral-300">
           <a href="#sobre" className="hover:text-white transition-colors">Sobre</a>
           <a href="#categorias" className="hover:text-white transition-colors">Categorias</a>
-          <a href="https://www.instagram.com/clsoutletararas/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Galeria</a>
+          <a href="https://www.instagram.com/outletcls_araras/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Galeria</a>
           <a href="https://www.mercadolivre.com.br/pagina/outletcls#client=SEARCH&component_id=header_logo&tracking_id=c5c49c00-d28e-45c1-9f03-062a6e054195" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Loja Online</a>
           <a href="#unidades" className="hover:text-white transition-colors">Unidades</a>
           
